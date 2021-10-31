@@ -1,0 +1,14 @@
+B:\Project C#\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.exe
+B:\Project C#\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.deps.json
+B:\Project C#\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.runtimeconfig.json
+B:\Project C#\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.runtimeconfig.dev.json
+B:\Project C#\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.dll
+B:\Project C#\MathClass\MathClass\bin\Debug\netcoreapp3.1\MathClass.pdb
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.csproj.AssemblyReference.cache
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.AssemblyInfoInputs.cache
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.AssemblyInfo.cs
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.csproj.CoreCompileInputs.cache
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.dll
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.pdb
+B:\Project C#\MathClass\MathClass\obj\Debug\netcoreapp3.1\MathClass.genruntimeconfig.cache
