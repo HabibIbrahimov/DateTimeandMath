@@ -7,20 +7,20 @@ namespace MathClass
         static void Main(string[] args)
         {
             #region Math
-            //double x = 4;
-            //double y = 6;
+            double x = 4;
+            double y = 6;
 
 
-            //double a = Math.Pow(x, 2);
-            //double b = Math.Sqrt(x);
-            //double c = Math.Abs(x);
-            //double d = Math.Round(x);
-            //double e = Math.Ceiling(x);
-            //double f = Math.Floor(x);
-            //double g = Math.Max(x, y);
-            //double h = Math.Min(x, y);
+            double a = Math.Pow(x, 2);
+            double b = Math.Sqrt(x);
+            double c = Math.Abs(x);
+            double d = Math.Round(x);
+            double e = Math.Ceiling(x);
+            double f = Math.Floor(x);
+            double g = Math.Max(x, y);
+            double h = Math.Min(x, y);
 
-            //Console.WriteLine(h);
+            Console.WriteLine(h);
             #endregion
 
             #region DateTime struct
